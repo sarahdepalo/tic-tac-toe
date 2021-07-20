@@ -2,9 +2,12 @@ body {
   width: 960px;
 }
 
+.game {
+  justify-content: center;
+}
+
 .App {
   text-align: center;
-  margin: 0 auto;
 }
 
 .App-logo {
